@@ -6,4 +6,4 @@
 
 Interacts with the following services:
 
- * [alphavantage](https://www.alphavantage.co/)
+   * [alphavantage](https://www.alphavantage.co/)
